@@ -1,0 +1,9 @@
+# Ignore logs
+*.log
+
+# Ignore credentials
+*.env
+*.json
+
+# Ignore pcap files
+*.pcap
